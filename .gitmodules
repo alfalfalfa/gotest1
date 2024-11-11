@@ -1,0 +1,3 @@
+[submodule "gotest2"]
+	path = gotest2
+	url = ../gotest2.git
